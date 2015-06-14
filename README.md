@@ -11,6 +11,9 @@ This great book gives a thorough introduction to the field of Statistical/Machin
 <LI>seaborn
 </UL>
 
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A>
+
+
 #####References:
 James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). <I>An Introduction to Statistical Learning with Applications in  R</I>,  Springer Science+Business Media, New York.
 http://www-bcf.usc.edu/~gareth/ISL/index.html
