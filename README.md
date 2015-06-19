@@ -12,7 +12,8 @@ This great book gives a thorough introduction to the field of Statistical/Machin
 </UL>
 
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%204.ipynb'>Chapter 4 - Classification</A>
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%205.ipynb'>Chapter 5 - Resampling Methods</A>
 
 #####References:
 James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). <I>An Introduction to Statistical Learning with Applications in  R</I>,  Springer Science+Business Media, New York.
