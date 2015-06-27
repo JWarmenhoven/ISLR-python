@@ -11,7 +11,7 @@ This great book gives a thorough introduction to the field of Statistical/Machin
 <LI>seaborn
 </UL>
 
-I am new to the ML field and a Python novice, but I thought it to be a good way to learn more about both by creating these notebooks.<P>
+I am new to the ML field and a Python novice, but I thought it to be a good way to learn more about both by creating these notebooks. I created some of the figures/tables of the chapters and worked through some LAB sections.<P>
 
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
