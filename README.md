@@ -18,6 +18,7 @@ I am new to the ML field and a Python novice, but I thought it to be a good way 
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%205.ipynb'>Chapter 5 - Resampling Methods</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%206.ipynb'>Chapter 6 - Linear Model Selection and Regularization</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%207.ipynb'>Chapter 7 - Moving Beyond Linearity</A><BR>
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%208.ipynb'>Chapter 8 - Tree-Based Methods</A><BR>
 ...more to come
 
 #####References:
