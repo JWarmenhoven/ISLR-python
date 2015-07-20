@@ -10,6 +10,8 @@ This great book gives a thorough introduction to the field of Statistical/Machin
 <LI>matplotlib
 <LI>seaborn
 </UL>
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Python%20module%20versions.ipynb'>(Module versions used)</A>
+
 
 I am new to the ML field and a Python novice, but I thought it to be a good way to learn more about both by creating these notebooks. I created some of the figures/tables of the chapters and worked through some LAB sections. I realize that at certain points it may look like I tried too hard to make the output identical to the tables and R-plots in the book. But I did this to explore some details of the libraries mentioned above (mostly matplotlib).<BR> Work in process! Suggestions for improvement and help with unsolved issues are welcome!<P>
 
