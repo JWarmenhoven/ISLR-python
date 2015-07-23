@@ -1,19 +1,18 @@
 # ISL-python
-This repository contains Python code for tables/figures from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013).<P>
+This repository contains Python code for a selection of tables, figures and LAB sections from the book <A href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 This great book gives a thorough introduction to the field of Statistical/Machine Learning. The book is available for download (see link below), but I think this is one those books that is definitely worth buying. The book contains sections with applications in R based on public datasets available for download or which are part of the R-package ISLR. Since Python is my language of choice for data analysis, I decided to try and rework some of the figures and calculations in IPython Notebook using:
 
 <UL>
 <LI>pandas
 <LI>numpy
-<LI>statsmodels
 <LI>scikit-learn
 <LI>matplotlib
 <LI>seaborn
+<LI>statsmodels
 </UL>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Python%20module%20versions.ipynb'>(Module versions used)</A>
 
-
-I am new to the ML field and a Python novice, but I thought it to be a good way to learn more about both by creating these notebooks. I created some of the figures/tables of the chapters and worked through some LAB sections. I realize that at certain points it may look like I tried too hard to make the output identical to the tables and R-plots in the book. But I did this to explore some details of the libraries mentioned above (mostly matplotlib). Note that this repository is not a tutorial and that you probably should have a copy of the book to follow along.<BR>
+I am new to the ML field and a Python novice, but I thought it to be a good way to learn more about both by creating these notebooks. I created some of the figures/tables of the chapters and worked through some LAB sections. I realize that at certain points it may look like I tried too hard to make the output identical to the tables and R-plots in the book. But I did this to explore some details of the libraries mentioned above (mostly matplotlib). Note that this repository is <STRONG>not a tutorial</STRONG> and that you probably should have a copy of the book to follow along.<BR>
 <BR> Work in process! Suggestions for improvement and help with unsolved issues are welcome!<P>
 
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
