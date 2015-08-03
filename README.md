@@ -9,6 +9,7 @@ This great book gives a thorough introduction to the field of Statistical/Machin
 <LI>matplotlib
 <LI>seaborn
 <LI>statsmodels
+<LI>patsy
 </UL>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Python%20module%20versions.ipynb'>(Module versions used)</A>
 
