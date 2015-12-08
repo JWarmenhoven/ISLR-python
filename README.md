@@ -1,5 +1,8 @@
 # ISLR-python
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
+
+<IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg', height=20%, width=20%>
+
 This great book gives a thorough introduction to the field of Statistical/Machine Learning. The book is available for download (see link below), but I think this is one those books that is definitely worth buying. The book contains sections with applications in R based on public datasets available for download or which are part of the R-package ISLR. Since Python is my language of choice for data analysis, I decided to try and rework some of the figures and calculations in IPython Notebook using:
 
 <UL>
