@@ -27,6 +27,7 @@ I thought it would be a good way to learn more about Machine Learning in Python 
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%208.ipynb'>Chapter 8 - Tree-Based Methods</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Support Vector Machines</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Unsupervised Learning</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Simulate.expected.misclassification.rate.ipynb'>Bonus: Misclassification rate simulation - SVM and Logistic Regression</A><BR>
 
 For an advanced treatment of these topics see Hastie et al. (2009)
 
