@@ -11,7 +11,8 @@ This repository contains Python code for a selection of tables, figures and LAB 
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Support Vector Machines</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Unsupervised Learning</A><P>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Simulate.expected.misclassification.rate.ipynb'>Extra: Misclassification rate simulation - SVM and Logistic Regression</A><P>
-This great book gives a thorough introduction to the field of Statistical/Machine Learning. The book is available for download (see link below), but I think this is one of those books that is definitely worth buying. The book contains sections with applications in R based on public datasets available for download or which are part of the R-package ISLR. Since Python is my language of choice for data analysis, I decided to try and do some of the calculations and plots in Jupyter Notebooks using:
+This great book gives a thorough introduction to the field of Statistical/Machine Learning. The book is available for download (see link below), but I think this is one of those books that is definitely worth buying. The book contains sections with applications in R based on public datasets available for download or which are part of the R-package ISLR. Furthermore, there is a Stanford University online course based on this book and taught by the authors (<A href='https://lagunita.stanford.edu/courses/'>course catalogue</A>).<P>
+Since Python is my language of choice for data analysis, I decided to try and do some of the calculations and plots in Jupyter Notebooks using:
 
 <UL>
 <LI>pandas
