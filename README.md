@@ -17,6 +17,7 @@ Since Python is my language of choice for data analysis, I decided to try and do
 <UL>
 <LI>pandas
 <LI>numpy
+<LI>scipy
 <LI>scikit-learn
 <LI>matplotlib
 <LI>seaborn
