@@ -1,6 +1,10 @@
 # ISLR-python
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
+2016-08-30:<BR>
+Chapter 6: included Ridge regression code using the new <A href='https://github.com/civisanalytics/python-glmnet'>python-glmnet</A> library. This is a python wrapper for the Fortran library used in the *R* package *glmnet*. 
+<P>
+
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg', height=20%, width=20%> <P>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
@@ -19,10 +23,11 @@ Since Python is my language of choice for data analysis, I decided to try and do
 <LI>numpy
 <LI>scipy
 <LI>scikit-learn
-<LI>matplotlib
-<LI>seaborn
+<LI>python-glmnet
 <LI>statsmodels
 <LI>patsy
+<LI>matplotlib
+<LI>seaborn
 </UL>
 
 It was a good way to learn more about Machine Learning in Python by creating these notebooks. I created some of the figures/tables of the chapters and worked through some LAB sections. At certain points I realize that it may look like I tried too hard to make the output identical to the tables and R-plots in the book. But I did this to explore some details of the libraries mentioned above (mostly matplotlib and seaborn). Note that this repository is <STRONG>not a tutorial</STRONG> and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!<P>
