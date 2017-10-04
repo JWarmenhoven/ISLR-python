@@ -25,6 +25,7 @@ credit['Student2'] = credit.Student.map({'No':0, 'Yes':1})
 auto = pd.read_csv('Data/Auto.csv', na_values='?').dropna()
 # auto.info()
 
+## Figure 3.1
 sns.regplot(advertising.TV, advertising.Sales, order=1, ci=None, scatter_kws={'color':'r'})
 plt.xlim(-10,310)
 plt.ylim(ymin=0)
@@ -60,6 +61,8 @@ fig.suptitle('RSS - Regression coefficients', fontsize=20)
 ax1 = fig.add_subplot(121)
 ax2 = fig.add_subplot(122, projection='3d')
 
+## Figure 3.2
+
 # left plot
 CS = ax1.contour(xx, yy, Z, cmap=plt.cm.Set1, levels=[2.15, 2.2, 2.3, 2.5, 3])
 ax1.scatter(regr.intercept_, regr.coef_[0], c='r', label=min_RSS)
@@ -82,4 +85,9 @@ for ax in fig.axes:
     ax.set_yticks([0.03, 0.04, 0.05, 0.06])
     ax.legend()
 
-plt.show()
+# plt.show()
+
+## Table 3.1
+est = smf.ols('Sales ~ TV', advertising).fit()
+summary = est.summary().tables[1]
+print(summary)
