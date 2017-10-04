@@ -15,11 +15,12 @@ pd.set_option('display.notebook_repr_html', False)
 
 plt.style.use('seaborn-white')
 
-# advertising = pd.read_csv('Data/Advertising.csv', usecols=[1,2,3,4])
-# advertising.info()
+advertising = pd.read_csv('Data/Advertising.csv', usecols=[1,2,3,4])
+advertising.info()
 
 credit = pd.read_csv('Data/Credit.csv', usecols=list(range(1,12)))
 credit['Student2'] = credit.Student.map({'No':0, 'Yes':1})
-heads = credit.head(3)
-heads
+print(credit.head(3))
 
+auto = pd.read_csv('Data/Auto.csv', na_values='?').dropna()
+auto.info()
