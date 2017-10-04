@@ -87,7 +87,7 @@ for ax in fig.axes:
 
 # plt.show()
 
-## Table 3.1
+## Table 3.1 + confidence interval on page 67
 est = smf.ols('Sales ~ TV', advertising).fit()
 summary = est.summary().tables[1]
 print(summary)
