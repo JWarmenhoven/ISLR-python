@@ -33,7 +33,7 @@ plt.ylim(ymin=0)
 
 regr = skl_lm.LinearRegression()
 
-X = scale(advertising.TV, with_mean=True, with_std=False).reshape(-1,1)
+X = advertising.TV.reshape(-1,1)
 y = advertising.Sales
 regr.fit(X,y)
 print(regr.intercept_)
@@ -53,6 +53,9 @@ for (i,j),v in np.ndenumerate(Z):
 # Minimized RSS
 min_RSS = r'$\beta_0$, $\beta_1$ for minimized RSS'
 min_rss = np.sum((regr.intercept_+regr.coef_*X - y.values.reshape(-1,1))**2)/1000
+# or use statsmodels formula api
+# est = smf.ols('Sales ~ TV', advertising).fit()
+# min_rss = ((advertising.Sales - (est.params[0] + est.params[1]*advertising.TV))**2).sum()/1000
 print(min_rss)
 
 fig = plt.figure(figsize=(15,6))
