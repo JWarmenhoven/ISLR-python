@@ -94,3 +94,8 @@ for ax in fig.axes:
 est = smf.ols('Sales ~ TV', advertising).fit()
 summary = est.summary().tables[1]
 print(summary)
+
+# calculation of R-square
+Sales_predict = regr.predict(X)
+r2 = r2_score(y, Sales_predict)
+print(r2)
