@@ -33,7 +33,7 @@ plt.ylim(ymin=0)
 
 regr = skl_lm.LinearRegression()
 
-X = advertising.TV.reshape(-1,1)
+X = advertising.TV.values.reshape(-1,1)
 y = advertising.Sales
 regr.fit(X,y)
 print(regr.intercept_)
