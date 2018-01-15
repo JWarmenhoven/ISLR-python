@@ -1,6 +1,10 @@
 # ISLR-python
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
+**2018-01-15**:<BR>
+Ongoing: Minor updates to the repository due to changes/deprecations in several packages. The notebooks have been tested with <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISLR-python/blob/master/Notebooks/Python%20module%20versions.ipynb'>these package versions</A>. Thanks @lincolnfrias and @telescopeuser.
+<P>
+
 **2016-08-30**:<BR>
 Chapter 6: I included Ridge/Lasso regression code using the new <A href='https://github.com/civisanalytics/python-glmnet'>python-glmnet</A> library. This is a python wrapper for the Fortran library used in the *R* package *glmnet*. 
 <P>
