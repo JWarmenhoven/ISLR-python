@@ -2,7 +2,7 @@
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
 **2018-01-15**:<BR>
-Ongoing: Minor updates to the repository due to changes/deprecations in several packages. The notebooks have been tested with <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISLR-python/blob/master/Notebooks/Python%20module%20versions.ipynb'>these package versions</A>. Thanks @lincolnfrias and @telescopeuser.
+Minor updates to the repository due to changes/deprecations in several packages. The notebooks have been tested with <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISLR-python/blob/master/Notebooks/Python%20module%20versions.ipynb'>these package versions</A>. Thanks @lincolnfrias and @telescopeuser.
 <P>
 
 **2016-08-30**:<BR>
