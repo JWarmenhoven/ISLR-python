@@ -11,7 +11,7 @@ Minor updates to the repository due to changes/deprecations in several packages.
 Chapter 6: I included Ridge/Lasso regression code using the new <A href='https://github.com/civisanalytics/python-glmnet'>python-glmnet</A> library. This is a python wrapper for the Fortran library used in the *R* package *glmnet*. 
 <P>
 
-<IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
+<IMG src='Notebooks/ISL%20Cover%202.jpg' height=20% width=20%> <P>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%205.ipynb'>Chapter 5 - Resampling Methods</A><BR>
