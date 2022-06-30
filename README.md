@@ -41,5 +41,8 @@ See Hastie et al. (2009) for an advanced treatment of these topics.<P>
 James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). <I>An Introduction to Statistical Learning with Applications in  R</I>,  Springer Science+Business Media, New York.
 https://www.statlearning.com/
 
+James, G., Witten, D., Hastie, T., Tibshirani, R. (2021). <I>An Introduction to Statistical Learning with Applications in  R, Second Edition</I>,  Springer Science+Business Media, New York.
+https://www.statlearning.com/
+
 Hastie, T., Tibshirani, R., Friedman, J. (2009). <I>Elements of Statistical Learning</I>, Second Edition, Springer Science+Business Media, New York.
 http://statweb.stanford.edu/~tibs/ElemStatLearn/
